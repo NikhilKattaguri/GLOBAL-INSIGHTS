@@ -46,22 +46,11 @@ https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset
 
 ---
 
-## 🔍 Analysis Scope
-- Sales and profit comparison by **category and sub-category**
-- Regional and market-level performance analysis
-- Shipping mode vs profitability analysis
-- Time-series analysis of sales trends
-- Discount impact assessment
-
----
-
 ## ⚠️ Dataset Limitations
 - Missing values in columns such as **Postal Code**
 - Dataset may not reflect **recent market trends**
 - Limited customer demographic information
 - Ambiguity in fields like **Order Priority**
-
-Mitigation strategies include focusing on higher-level geographic and product categories and handling null values appropriately.
 
 ---
 
@@ -81,4 +70,10 @@ Mitigation strategies include focusing on higher-level geographic and product ca
 
 ---
 
-## 📂 Repository Structure
+## 📬 Contact
+If you have questions or want to discuss this project, feel free to reach out:
+
+**Rachana Hadke**  
+- [LinkedIn](https://www.linkedin.com/in/nikhilkattaguri)  
+- [Email](mailto:nikhilkattaguri27@gmail.com)
+
