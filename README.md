@@ -1,4 +1,4 @@
-# GLOBAL-INSIGHTS
+# GLOBAL-INSIGHTS [Dashboard](https://public.tableau.com/app/profile/nikhilkattaguri/viz/GlobalSuperStore_17464716919440/Story)
 Built Tableau visuals to identify sales and profit patterns across multiple regions and product categories of the “Global Superstore” dataset consisting of over 51,000 rows.
 
 
