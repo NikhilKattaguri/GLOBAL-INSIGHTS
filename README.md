@@ -72,8 +72,6 @@ https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset
 
 ## 📬 Contact
 If you have questions or want to discuss this project, feel free to reach out:
-
-**Rachana Hadke**  
 - [LinkedIn](https://www.linkedin.com/in/nikhilkattaguri)  
 - [Email](mailto:nikhilkattaguri27@gmail.com)
 
